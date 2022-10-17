@@ -1,46 +1,46 @@
 {
     "name_and_link": [
-        "Shourya Shikhar Ghosh",
-        "https://github.com/danger-ahead/"
+        "Benjamin Liang",
+        "https://github.com/float-ben/"
     ],
     "designation": [
         "CS Undergrad.",
-        "Flutter Developer."
+        "Software Developer."
     ],
     "resume_download_link": "https://docs.google.com/document/d/15T64f6XCPKDaJX7CUFDIqly-H4PcudLTWDlKGxb9IvQ/edit?usp=sharing/export?format=pdf",
     "social_media": {
         "1": [
-            "https://github.com/danger-ahead/",
+            "https://github.com/float-ben/",
             "github"
         ],
         "2": [
-            "https://leetcode.com/danger-ahead/",
+            "https://leetcode.com/BenLiangCS/",
             "leetcode"
         ],
         "3": [
-            "https://linkedin.com/in/shourya-shikhar/",
+            "https://www.linkedin.com/in/benjamin-liang-cs/",
             "linkedin"
         ],
         "4": [
-            "https://stackoverflow.com/users/10951873/shourya-shikhar",
+            "",
             "stackoverflow"
         ],
         "5": [
-            "https://twitter.com/___shourya___/",
+            "",
             "twitter"
         ],
         "6": [
-            "mailto:danger.ahead@pm.me",
+            "mailto:benliangcs@gmail.com",
             "email"
         ]
     },
     "contact_me": {
-        "location": "Kolkata, India",
+        "location": "Urbana-Champaign",
         "open_for_opportunities": "Yes",
         "picture": "picture.png"
     },
     "about": "A passionate Software Developer 🚀 | Open Source enthusiast 📝 | Maintainer 👷",
-    "bio": "Sophomore CS Engineering student. I spend my leisure time contributing to open source projects and browsing Stack Overflow. I've hands-on experience in working on several projects that use Python, Node.js, Flutter, Java, etc. Most of my projects are released as open-source on GitHub.",
+    "bio": "I’m a Computer Science Student at the University of Illinois at Urbana-Champaign. Over the years, I’ve been doing robotics, participating in competitions, and interning at tech companies. I specialize in software, but I'm also experienced in developing autonomy sensing, intermediate PCB Design, and hardware design (CAD). When I’m not on the job, I love doing sports, working my way through every episode of the new show I'm watching, and indulging in my love for outdoor activities.",
     "what_i_do": {
         "tools": [
             "flutter.png",
@@ -61,37 +61,21 @@
     },
     "education": {
         "1": {
-            "institute": "RCC Institute of Information Technology",
-            "location": "Kolkata",
-            "years": "2020 - 2024",
-            "description": "B.Tech in CSE",
-            "grades": "9.53 YGPA",
-            "logo": "rcciit.png"
-        },
-        "2": {
-            "institute": "Gitaram Academy",
-            "location": "Berhampore",
-            "years": "2018 - 2020",
-            "description": "Physics, Chemistry, Mathematics, Computer Science",
-            "grades": "84%",
-            "logo": "gitaram.png"
-        },
-        "3": {
-            "institute": "The St. Xavier's School",
-            "location": "Malda",
-            "years": "2004 - 2018",
-            "description": "Secondary Education",
-            "grades": "94%",
-            "logo": "stxaviers.png"
+            "institute": "University of Illinois at Urbana-Champaign",
+            "location": "Urbana-Champaign",
+            "years": "2022 - 2026",
+            "description": "B.S. Computer Science",
+            "grades": "4.0 GPA",
+            "logo": "UIUC.png"
         }
     },
     "experience": {
         "1": {
-            "name": "Ekko",
-            "role": "Web and App Intern",
-            "period": "June, 2022 - Present",
-            "description": "Working in the web and app team.",
-            "image_name": "ekko.png"
+            "name": "Guider Tech Internship",
+            "role": "Researcher/Intern",
+            "period": "July, 2021 - September 2021",
+            "description": "Participated in regular meetings and discussions among engineers and the marketing team. Tested smartwatch performance on autonomy sensing and data optimization. Collected smartwatch sensor data. Trained/developed machine learning models, boosted accuracy to 87.68% by tuning the feature processing and model parameters through Python, data collection, and cross-validation.",
+            "image_name": "GuiderTech.png"
         },
         "2": {
             "name": "Credanic",
