@@ -22,14 +22,6 @@
             "linkedin"
         ],
         "4": [
-            "",
-            "stackoverflow"
-        ],
-        "5": [
-            "",
-            "twitter"
-        ],
-        "6": [
             "mailto:benliangcs@gmail.com",
             "email"
         ]
@@ -39,24 +31,24 @@
         "open_for_opportunities": "Yes",
         "picture": "picture.png"
     },
-    "about": "A passionate Software Developer 🚀 | Open Source enthusiast 📝 | Maintainer 👷",
+    "about": "A passionate Software Developer 🚀 | Motivated Innovator 📝 | Maintainer 👷",
     "bio": "I’m a Computer Science Student at the University of Illinois at Urbana-Champaign. Over the years, I’ve been doing robotics, participating in competitions, and interning at tech companies. I specialize in software, but I'm also experienced in developing autonomy sensing, intermediate PCB Design, and hardware design (CAD). When I’m not on the job, I love doing sports, working my way through every episode of the new show I'm watching, and indulging in my love for outdoor activities.",
     "what_i_do": {
         "tools": [
-            "flutter.png",
-            "linux.png",
-            "c.png",
-            "cpp.png",
             "java.png",
             "python.png",
+            "cpp.png",
+            "flutter.png",
+            "SQL.png",
             "bash.png",
             "git.png"
         ],
         "proficiency": [
-            "Flutter--50",
-            "C/C++/Java/Python--60",
-            "GNU/Linux--30",
-            "Git--65"
+            "Flutter/Dart--40",
+            "C++/Java/Python--60",
+            "SQL--35",
+            "Git/GitHub--65",
+            "Shell/Bash--30"
         ]
     },
     "education": {
@@ -78,100 +70,65 @@
             "image_name": "GuiderTech.png"
         },
         "2": {
-            "name": "Credanic",
-            "role": "Flutter SDE Intern",
-            "period": "December, 2021 - February, 2021",
-            "description": "Worked in the Flutter App Dev Team.",
-            "image_name": "credanic.png"
+            "name": "Delta Robotics",
+            "role": "Tutor and Programmer",
+            "period": "July, 2018 - September, 2020",
+            "description": "Taught students how to program robots in C++ & Python, including computer vision (OpenCV), various BUS protocols, software-hardware integration, and robotics programming. Developed motherboards for use in competitions, demonstrations, and other projects. Learned how to prepare lessons and impart knowledge effectively.",
+            "image_name": "DRTM.png"
         },
         "3": {
-            "name": "Google Developer Student Club",
-            "role": "Cybersecurity core member",
-            "period": "September, 2021 - Present",
-            "description": "Helped in organizing and conducting technical workshops, and informative webinars for community members.",
-            "image_name": "GDSC.png"
+            "name": "Zero2One",
+            "role": "Venture Director",
+            "period": "August, 2022 - Present",
+            "description": "Incubator program that selected members via a competitive application and interview process. Exploring and applying concepts such as prototyping, branding, and project management, but also technical skills including AI, Python, and various software development tools. Along with equally passionate peers to dive into the field of entrepreneurship. Create and develop our own projects/start-ups, seeking to obtain venture capital and cooperate with various accelerators/companies. (Explores app development and website building).",
+            "image_name": "Zero2One.png"
         },
         "4": {
-            "name": "RccTechz - RCCIIT Tech Chapter",
-            "role": "Member",
-            "period": "March, 2021 - March, 2022",
-            "description": "Official Tech chapter of RCCIIT, RCCTechz. Contributed to Club activities, helped other members with projects and helped coordinate workshops.",
-            "image_name": "rcctechz.png"
+            "name": "NOBE (National Organization of Business and Engineering)",
+            "role": "Technology Committee Member",
+            "period": "August, 2022 - Present",
+            "description": "Carries out business and engineering consulting. Research and develop solutions according to clients’ needs and create our own entrepreneurial projects. Dives into concepts related to AI, AWS, and data analysis. NOBE is a registered non-profit organization seeking to bridge the gap for those interested in business and engineering. The Technology Committee specifically works on and with industry tools and technology, as well as APIs and various servers.",
+            "image_name": "nobe.png"
         },
         "5": {
-            "name": "Coding Ninjas",
-            "role": "Campus Ambassador",
-            "period": "August, 2021 - February, 2022",
-            "description": "Promoting the company's courses, sharing referrals and conducting workshops.",
-            "image_name": "coding-ninjas.png"
+            "name": "Engineering Council",
+            "role": "Freshmen Council Technical Committee Member",
+            "period": "August, 2022 - Present",
+            "description": "As a member of the Technical Committee, we develop innovative projects (Websites, Apps, Research) and eventually display them at the Engineering Open House (EOH). But as members of the Engineering Council, we also promote UIUC’s engineering to future engineers.",
+            "image_name": "EC.png"
         },
         "6": {
-            "name": "Open Source",
-            "role": "Contributor",
-            "period": "December, 2020 - Present",
-            "description": "Completed Hacktoberfest'21 with 6 merged pull requests.",
-            "image_name": "opensource.png"
+            "name": "ACM (Association for Computing Machinery)",
+            "role": "Member",
+            "period": "August, 2022 - Present",
+            "description": "Joined the GameBuilders, SIGMobile, SIGPwny interest groups. Learn to develop games, apps, and basic cyber security procedures, using Godot Engine, flutter/dart, and python (basic reverse engineering, web hacking, and basic cyper securtiy procedures).",
+            "image_name": "ACM.png"
+        },
+        "7": {
+            "name": "RoboCup Junior Soccer",
+            "role": "Captain/Lead Programmer ",
+            "period": "2017 - 2022",
+            "description": "Led Taiwan Robotics Team to compete against 50 international teams in the RoboCup Junior Soccer Competition. Researched and taught computer/machine vision, Deep Learning/Machine Learning, autonomy sensing, and robotics programming. Developed autonomous circular robots that moved on all axes, kicked, dribbled, and played soccer competitively. Programmed robots using C++ and Python.",
+            "image_name": "RCJ.png"
         }
     },
     "projects": {
         "1": {
-            "name": "Regalia '22 Backend",
-            "tech_stack_used": "FastAPI and MongoDB (using Python)",
-            "description": "Backend of Regalia '22, RCCIIT's cultural fest. Handled total entries for 1.2K+ attendees on both the event days each. Also handled on-spot registrations (including sending passes through email using MAILGUN API) and free entries, without encountering a single production bug.",
-            "general_or_github_link": "https://github.com/danger-ahead/regalia-2022-backend"
+            "name": "Internship Website, Project Lead",
+            "tech_stack_used": "Tech Stack: Flutter and Dart",
+            "description": "Created a website that is able to scrap data from the web according to filters and specifications regarding common internship qualifications and options. The website is currently in its fine-tuning stages.",
+            "general_or_github_link": ""
         },
         "2": {
-            "name": "TechTrix '22 Backend",
-            "tech_stack_used": "FastAPI and MongoDB (using Python)",
-            "description": "Made the backend of TechTrix '22, RCCIIT's tech fest. Handled 435+ participants, 60+ coordinators, and 560+ event registrations, without encountering a single production bug.",
-            "general_or_github_link": "https://github.com/danger-ahead/techtrix22-backend"
-        },
-        "3": {
-            "name": "Calculator",
-            "tech_stack_used": "Flutter",
-            "description": "Calculator app based on Soft UI (neumorphism), having simple and advanced modes. Also has a history section to save previously performed operations (using FLUTTER SQLITE). Supports 3 theme modes - system default, light and dark. State management approach used - RIVERPOD. PUBLISHED ON F-DROID.",
-            "general_or_github_link": "https://github.com/belelaritra/Neumorphic_Calculator"
-        },
-        "4": {
-            "name": "flutter_dev_folio",
-            "tech_stack_used": "Flutter",
-            "description": "Minimal, Beautiful and responsive portfolio site template.",
-            "general_or_github_link": "https://github.com/danger-ahead/flutter_dev_folio"
-        },
-        "5": {
-            "name": "roBOT - Discord bot",
-            "tech_stack_used": "Python, MongoDB, REST APIs",
-            "description": "Bot with administrative commands (for kick, ban, mute, etc) and other fun commands (for memes, movies, jokes, etc).",
-            "general_or_github_link": "https://github.com/danger-ahead/roBOT"
-        },
-        "6": {
-            "name": "cinephilic",
-            "tech_stack_used": "HTML, CS, JS",
-            "description": "A chrome extension for showing the current trending movies in new tab.",
-            "general_or_github_link": "https://github.com/quasar-rcciit/cinephilic"
-        },
-        "7": {
-            "name": "Dictionary",
-            "tech_stack_used": "Flutter, SQLite, REST APIs",
-            "description": "Multi-language dictionary app with support for audio pronunciation (English only).",
-            "general_or_github_link": "https://github.com/danger-ahead/flutter_dictionary"
-        },
-        "8":{
-            "name": "Note",
-            "tech_stack_used": "JAVA, MySQL",
-            "description": "Simple terminal based Note Taking Application.",
-            "general_or_github_link": "https://github.com/danger-ahead/Note"
-        },
-        "9":{
-            "name": "Enigma-tic-cryption",
-            "tech_stack_used": "C++",
-            "description": "Follows the exact encryption method used by the enigma. Has multiple modes for setting different rotors.",
-            "general_or_github_link": "https://github.com/danger-ahead/enigma-tic-cryption"
+            "name": "Alphabet Game, Project Lead",
+            "tech_stack_used": "Tech Stack: C++ and Godot IDE",
+            "description": "Created an adventure game centered around the alphabet ‘G’ finding various letters and completing puzzle-like stages. Utilized the Godot IDE and C++ (OOP) to program the game. Supports advanced character physics and character-to-environment interactions.",
+            "general_or_github_link": ""
         }
     },
     "achievements": {
         "1": {
-            "description": "Worked in a team (Quasar) at HackNPitch’21 (hackathon organised by JU E-Cell ) and ranked in the top 6 (earned the special mention tag) among 50+ other teams across India.",
+            "description": "RoboCup Junior Individual Championship 2021 -> ",
             "link": "https://www.linkedin.com/posts/juecell_hacknpitch-include-hackathon-activity-6849231722333249536-qqw2"
         },
         "2": {
