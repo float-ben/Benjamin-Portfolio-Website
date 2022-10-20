@@ -124,28 +124,26 @@
             "tech_stack_used": "Tech Stack: C++ and Godot IDE",
             "description": "Created an adventure game centered around the alphabet ‘G’ finding various letters and completing puzzle-like stages. Utilized the Godot IDE and C++ (OOP) to program the game. Supports advanced character physics and character-to-environment interactions.",
             "general_or_github_link": ""
+        },
+        "3": {
+            "name": "Line Bot",
+            "tech_stack_used": "Tech Stack: Python and Line API",
+            "description": "Wrote a chat bot for a popular social media app in Taiwan. The chat bot had several different functions, including web crawling for the products you want to buy, giving you detailed information on the metro, such as the depart times, which station you should depart from, and the different options you have if you want to get to a particular destination.",
+            "general_or_github_link": ""
         }
     },
     "achievements": {
         "1": {
-            "description": "RoboCup Junior Individual Championship 2021 -> ",
-            "link": "https://www.linkedin.com/posts/juecell_hacknpitch-include-hackathon-activity-6849231722333249536-qqw2"
+            "description": "RoboCup Junior Individual Championship 2021",
+            "link": ""
         },
         "2": {
-            "description": "Won Filecoin track prize from Filecoin for the best use of Filecoin and/or IPFS in a hackathon project (worth Rs. 20,000).",
-            "link": "https://www.linkedin.com/posts/shourya-shikhar_dapp-filecoin-decentralized-activity-6889903951555235840-FuLM"
+            "description": "RoboCup Junior International SuperTeam Championship June 2019 & June 2021",
+            "link": ""
         },
         "3": {
-            "description": "Have 600+ reputation points in Stack Overflow.",
-            "link": "https://stackoverflow.com/users/10951873/shourya-shikhar"
-        },
-        "4": {
-            "description": "Completed 30 Days of Google Cloud '21.\n- Completed Cloud Engineering Track\n- Completed Data Science & Machine Learning Track",
-            "link": "https://www.qwiklabs.com/public_profiles/d317f0a6-63b7-4c9f-be77-066e75ba3c6a"
-        },
-        "5": {
-            "description": "Completed Hacktoberfest '21 with 6 merged PRs.",
-            "link": "https://www.linkedin.com/posts/shourya-shikhar_hacktoberfest2021-hacktoberfest-opensource-activity-6857565719031361536-OpX8"
+            "description": "National Innovation Award                 Competed alongside Temple Health, an AI precision health company. Responsible for gathering data from smart watches the company made and using that data to help formulate algorithms and train Machine Learning models. Helped research and brainstorm implications and specific medical conditions related to the project (heart diseases, diabetes, and more).",
+            "link": ""
         }
     }
 }
