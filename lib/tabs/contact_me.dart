@@ -218,15 +218,7 @@ class _ContactMeState extends State<ContactMe> {
               TextButton(
                 onPressed: () => htmlOpenLink(getNameAndLink[1]),
                 child: CustomText(
-                    text: 'Made with ❤️ by ${getNameAndLink[0]}',
-                    fontSize: 10,
-                    color: Theme.of(context).primaryColorLight),
-              ),
-              TextButton(
-                onPressed: () => htmlOpenLink(
-                    'https://github.com/danger-ahead/flutter_dev_folio'),
-                child: CustomText(
-                    text: 'Theme by flutter_dev_folio',
+                    text: 'Made by ${getNameAndLink[0]} :)',
                     fontSize: 10,
                     color: Theme.of(context).primaryColorLight),
               )
