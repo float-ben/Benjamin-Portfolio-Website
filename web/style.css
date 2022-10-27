@@ -36,7 +36,7 @@ body {
 }
 .box, .box__inner div, .line__inner  {
 	animation-timing-function: ease-in-out;
-	animation-iteration-count: infinite;
+	animation-iteration-count: 5;
 }
 .box, .line__inner {
 	animation-duration: var(--dur);
