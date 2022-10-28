@@ -73,7 +73,7 @@
             "name": "Delta Robotics",
             "role": "Tutor and Programmer",
             "period": "July, 2018 - September, 2020",
-            "description": "Taught students how to program robots in C++ & Python, including computer vision (OpenCV), various BUS protocols, software-hardware integration, and robotics programming. Developed motherboards for use in competitions, demonstrations, and other projects. Learned how to prepare lessons and impart knowledge effectively.",
+            "description": "Taught 20+ students how to program robots in C++ & Python, including computer vision (OpenCV), various BUS protocols, software-hardware integration, and robotics programming. Developed motherboards for use in competitions, demonstrations, and other projects. Learned how to prepare lessons and impart knowledge effectively.",
             "image_name": "DRTM.png"
         },
         "3": {
@@ -128,7 +128,13 @@
         "3": {
             "name": "Line Bot",
             "tech_stack_used": "Tech Stack: Python and Line API",
-            "description": "Wrote a chat bot for a popular social media app in Taiwan. The chat bot had several different functions, including web crawling for the products you want to buy, giving you detailed information on the metro, such as the depart times, which station you should depart from, and the different options you have if you want to get to a particular destination.",
+            "description": "Wrote a chat bot for a popular social media app in Taiwan. The chat bot had several different functions, including web crawling for the products you want to buy, giving you detailed information on the metro, such as the depart times, which station you should depart from, and the different options you have if you want to get to a particular destination. The chat bot was also hosted on the Heroku server.",
+            "general_or_github_link": ""
+        },
+        "4": {
+            "name": "Machine Learning Project",
+            "tech_stack_used": "Python and TensorFlow",
+            "description": "Programmed and trained a machine learning model where it can identify and output handwritten words, letters, and numbers. The accuracy acheived was 85% and was improved via self-generated data, online data bases, and cross validation. The program can even identify letters and numbers from street signs and car plates.",
             "general_or_github_link": ""
         }
     },
